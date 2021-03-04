@@ -8,7 +8,7 @@ import { HttpClient } from "@angular/common/http";
 })
 export class DeliveryMenuComponent implements OnInit {
   private api="https://staging.pearpartner.com/restaurant/9999";
-  enable = true;
+  enable = false;
   products: any=[];
   id="6038aa7fc3419212f87499d6";
 
