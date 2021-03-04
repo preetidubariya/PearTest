@@ -99,3 +99,7 @@ a{
 .input-group-text{
     border:1px solid #e9ecef !important;
 }
+
+.custom-select:focus {
+    box-shadow: 0 0 0 0rem rgb(0 123 255 / 25%) !important;
+}

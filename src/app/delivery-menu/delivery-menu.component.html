@@ -35,8 +35,16 @@
               </h4>
             </div>
             <div id="collapsestarters" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingstarters">
-              <div class="card-body panel-body pl-5 pr-5 pt-0 pb-1">
-                2 body
+              <div class="card-body panel-body pl-5 pr-5 pt-0 pb-3 text-muted d-flex justify-content-between font-12">
+                <div>
+                  <i class="fas fa-circle border-icon mr-3" style="padding:.05rem;" ></i>
+                  <span class="align-middle">Paneer Tikka[Serves 2]</span>
+                </div>
+
+                <div class="">
+                  <i class="fas fa-image mr-1"></i>
+                  ₹ 200
+                </div>
               </div>
             </div>
           </div>
@@ -47,7 +55,7 @@
       <h4>Menu Listing</h4>
      
 
-      <select class="select2 form-control custom-select justify-content-end" id="select2-select2-with-placeholder-container">
+      <select class="select2 form-control custom-select justify-content-end" id="select2-select2-with-placeholder-container" style="width:30% !important;">
         <option>
           <!-- <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M0 1.2C0 0.88174 0.105357 0.576516 0.292893 0.351472C0.48043 0.126428 0.734784 0 1 0H11C11.2652 0 11.5196 0.126428 11.7071 0.351472C11.8946 0.576516 12 0.88174 12 1.2C12 1.51826 11.8946 1.82348 11.7071 2.04853C11.5196 2.27357 11.2652 2.4 11 2.4H1C0.734784 2.4 0.48043 2.27357 0.292893 2.04853C0.105357 1.82348 0 1.51826 0 1.2V1.2Z" fill="black"/>
@@ -56,15 +64,9 @@
             </svg> -->
             <i class="far fa-sort-amount-up"></i>
           Filter</option>
-        <optgroup label="Alaskan/Hawaiian Time Zone">
-            <option value="AK">Alaska</option>
-            <option value="HI">Hawaii</option>
-        </optgroup>
-        <optgroup label="Pacific Time Zone">
-            <option value="CA">California</option>
-            <option value="NV">Nevada</option>
-            <option value="OR">Oregon</option>
-            <option value="WA">Washington</option>
+        <optgroup label="Dinner">
+            <option value="AK">Food</option>
+            <option value="HI">Food</option>
         </optgroup>
       </select>
      </div>
@@ -75,7 +77,7 @@
             <div class="card-header panel-heading" role="tab" [id]="'heading'+data._id">
                 <h4 class="panel-title">
                 <a role="button" class="btn btn-link collapsed p-0 font-16"  data-toggle="collapse" data-parent="#accordion" [href]="'#collapse'+data._id" aria-expanded="true" [attr.aria-controls]="'collapse'+data.id">
-                    <i class="fas fa-caret-right rotate-icon"></i> &nbsp;&nbsp;{{data.Category_name}} 0
+                    <i class="fas fa-caret-right rotate-icon"></i> &nbsp;&nbsp;{{data.Category_name}}
                 </a>
                 </h4>
             </div>
@@ -100,16 +102,17 @@
                             <div *ngFor="let categoryname of categoryName.Options">
                               <div class="d-flex justify-content-between">
                                 <div>
-                                  <i class="fas fa-circle p-1 border-icon mr-3" ></i> 
+                                  <i class="fas fa-circle border-icon mr-3" style="padding:.05rem;" ></i> 
                                   {{categoryname.Name}}
                                  </div>
-                                 <div class="justify-content-end pr-3">
-                                  ₹ {{categoryname.Price}}
-                                  <i class="fas fa-star font-16 ml-3" style="color: #f0cb4e;"></i>
+                                 <div class="d-flex justify-content-end">
+                                 
                                  </div>
-                                 <div class="pr-2 justify-content-end custom-switches" *ngIf="id==categoryname._id">
+                                 <div class="pl-1 d-flex justify-content-end">
                                     <!-- <ui-switch [(ngModel)]="enable" size="small"></ui-switch> -->
-                                    <ui-switch [(ngModel)]="enable" size="small"></ui-switch>
+                                    ₹ {{categoryname.Price}}
+                                    <i class="fas fa-star font-16 ml-3 mr-3" style="color: #f0cb4e;"></i>
+                                    <ui-switch [(ngModel)]="enable" size="small" *ngIf="id==categoryname._id"></ui-switch>
                                     <!-- {{enable}} -->
                                  </div>
                               </div>
@@ -133,7 +136,7 @@
     <div class="col-lg-6 col-md-6 pl-3 pr-3 pt-3 pb-2 mt-3" style="background-color: #f6f8f9;">
       <div *ngIf="enable" class="mt-1" style="color: grey;">
         <div class="row m-0">
-          <div class="col-lg-12 col-md-12 pl-0">
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mb-1">
             <h6 class="text-uppercase font-14">Pricing<sup style="color:red;">*</sup><i class="fal fa-info-circle ml-2 font-14" ></i></h6>
             <div class="row border rounded ml-0 pt-2 pb-2" style="background-color: #fff;">
               <div class="col-lg-6 col-md-6">
@@ -162,17 +165,17 @@
             </div>
           </div>
 
-          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-3 mb-1">
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-2 mb-1">
             <h6 class="text-uppercase font-14">customization<i class="fal fa-info-circle ml-2 font-14" ></i></h6>
             <form class="m-t-20">
-              <div class="form-group">
+              <div class="form-group mb-0">
                   <textarea class="form-control align-middle pt-3 pb-3" rows="1" placeholder="&#xf067; Add Variants and Addons" style="width: 100% !important;font-family:FontAwesome !important;" spellcheck="false"></textarea>
               </div>
           </form>
           </div>
 
-          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-3 mb-1">
-            <div class="p-2">
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-2 mb-1">
+            <div class="pt-2 pb-2">
               <h6 class="text-uppercase font-14">additional information</h6>
               <div class="border rounded" style="background-color: #fff;">
                 <div class="row col-lg-3 col-md-3 ml-1 pt-2 pb-2">
@@ -188,13 +191,18 @@
             </div>
           </div>
 
-          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-3 mb-1">
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-2 mb-1">
             <h6 class="text-uppercase font-14">item description<i class="fal fa-info-circle ml-2 font-14" ></i></h6>
             <form class="m-t-20">
               <div class="form-group">
-                  <textarea class="form-control align-middle pt-3 pb-3" rows="5" placeholder="{{'Address Line1\nAddress Line2\nCity State, Zip\nCountry'}}" style="width: 100% !important;" spellcheck="false"></textarea>
+                  <textarea class="form-control align-middle pt-3 pb-3" rows="5" placeholder="{{'For Example\nDal Makhni+2 Roti+Curd+Pickle\nOr\nCreamy Pasta Prepared in White creamy Sauce'}}" style="width: 100% !important;" spellcheck="false"></textarea>
               </div>
           </form>
+          </div>
+
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-2 mb-1 d-flex justify-content-between">
+            <button type="button" class="btn btn-link pl-3 pr-3">Cancel</button>
+            <button type="button" class="btn btn-primary pl-5 pr-5">Save</button>
           </div>
           
 
