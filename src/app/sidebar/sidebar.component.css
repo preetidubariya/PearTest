@@ -1,0 +1,75 @@
+.sidebar{
+    height:100vh;
+    position: fixed;
+    width:16.666667%;
+}
+
+.heading{
+    color:#fff;
+    background-color: #e23744;
+}
+
+.heading h5{
+    font-weight: 700;
+    font-style:italic;
+}
+
+.body-section{
+    background-color: black;
+    color: #fff;
+    height:100%;
+    font-size:70%;
+    line-height: 1.6;
+    padding-left: 0 !important;
+}
+
+.select2-container--classic .select2-selection--single, .select2-container--default .select2-selection--multiple, .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-selection__arrow, .select2-container--default .select2-selection--single .select2-selection__rendered {
+    border-color: rgba(0,0,0,.1);
+    color: #6a7a8c;
+    height: 40px;
+    line-height: 40px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6a7a8c;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #e9ecef;
+    appearance: none;
+    border-radius: 2px;
+    box-shadow: unset;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.select2{
+    width:13vw !important;
+}
+
+.res-body{
+    width:13vw;
+}
+
+
+.vertical-menu a {
+/* background-color: #eee; */
+color: #fff;
+display: block;
+padding:.85rem 1rem;
+text-decoration: none;
+font-size: 120%;
+}
+
+.vertical-menu a:hover {
+background-color: #ccc;
+}
+
+.vertical-menu a.active {
+background-color: #3d3e3f;
+color: white;
+}

@@ -1,9 +1,3 @@
-app-sidebar{
-    width:15vw;
-}
-
-
-
 .header{
     position: fixed;
     top: 0;
@@ -26,7 +20,6 @@ app-sidebar{
     -webkit-box-shadow: 0 8px 6px -10px grey;
        -moz-box-shadow: 0 8px 6px -10px grey;
             box-shadow: 0 8px 6px -10px grey;
-    background-color: #fff;
 }
 
 .searchBar input[type=text]{

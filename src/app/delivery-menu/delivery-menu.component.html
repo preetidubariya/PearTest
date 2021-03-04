@@ -1,0 +1,206 @@
+<div class="row m-0">
+    <div class="col-lg-12 col-md-12 pt-1 text-left font-11 text-muted mr-1 mt-1 ml-0 mb-1 pb-1 position-fixed" style="background-color: #fceec0;z-index:1;">
+        <i class="fas fa-info-circle mr-2" style="color: #d19e49;"></i>Menu Can be Managed by integration partner [UrbanPiper] only! you can still mark items in/out-of-stock.
+    </div>
+    <div class="col-lg-6 col-md-6 one-edge-shadow pl-3 pr-3 pt-3 pb-2 mt-3">
+
+        <!-- <div class="accordion mt-2 mb-5" id="accordionExample">
+            <div class="card">
+              <div class="card-header" id="headingOne">
+                <h2 class="mb-0">
+                  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+
+                    Collapsible Group Item #1
+                  </button>
+                </h2>
+              </div>
+          
+              <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
+          </div> -->
+
+      <span class="text-muted font-11">Sample Menu Item</span>
+      <div class="panel-group mt-0 mb-5 pl-1 pr-1"  id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="card" style="background-color:#e4eefa !important;border:none !important;" >
+            <div class="card-header panel-heading" role="tab" id="starters" style="padding: 0.3rem .9rem 0rem .9rem !important;background-color:#e4eefa !important;border:none !important;">
+              <h4 class="panel-title">
+                <a role="button" class="btn btn-link collapsed p-0"  data-toggle="collapse" data-parent="#accordion" href="#collapsestarters" aria-expanded="true" aria-controls="collapsestarters">
+                  <span><i class="fas fa-caret-right rotate-icon"></i> &nbsp;&nbsp;Starters</span>
+                </a>
+              </h4>
+            </div>
+            <div id="collapsestarters" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingstarters">
+              <div class="card-body panel-body pl-5 pr-5 pt-0 pb-1">
+                2 body
+              </div>
+            </div>
+          </div>
+          </div>
+      </div>
+
+     <div class="d-flex justify-content-between">
+      <h4>Menu Listing</h4>
+     
+
+      <select class="select2 form-control custom-select justify-content-end" id="select2-select2-with-placeholder-container">
+        <option>
+          <!-- <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 1.2C0 0.88174 0.105357 0.576516 0.292893 0.351472C0.48043 0.126428 0.734784 0 1 0H11C11.2652 0 11.5196 0.126428 11.7071 0.351472C11.8946 0.576516 12 0.88174 12 1.2C12 1.51826 11.8946 1.82348 11.7071 2.04853C11.5196 2.27357 11.2652 2.4 11 2.4H1C0.734784 2.4 0.48043 2.27357 0.292893 2.04853C0.105357 1.82348 0 1.51826 0 1.2V1.2Z" fill="black"/>
+            <path d="M2 5.99999C2 5.68173 2.10536 5.3765 2.29289 5.15146C2.48043 4.92642 2.73478 4.79999 3 4.79999H9C9.26522 4.79999 9.51957 4.92642 9.70711 5.15146C9.89464 5.3765 10 5.68173 10 5.99999C10 6.31825 9.89464 6.62347 9.70711 6.84852C9.51957 7.07356 9.26522 7.19999 9 7.19999H3C2.73478 7.19999 2.48043 7.07356 2.29289 6.84852C2.10536 6.62347 2 6.31825 2 5.99999Z" fill="black"/>
+            <path d="M5 9.60001C4.73478 9.60001 4.48043 9.72643 4.29289 9.95148C4.10536 10.1765 4 10.4817 4 10.8C4 11.1183 4.10536 11.4235 4.29289 11.6485C4.48043 11.8736 4.73478 12 5 12H7C7.26522 12 7.51957 11.8736 7.70711 11.6485C7.89464 11.4235 8 11.1183 8 10.8C8 10.4817 7.89464 10.1765 7.70711 9.95148C7.51957 9.72643 7.26522 9.60001 7 9.60001H5Z" fill="black"/>
+            </svg> -->
+            <i class="far fa-sort-amount-up"></i>
+          Filter</option>
+        <optgroup label="Alaskan/Hawaiian Time Zone">
+            <option value="AK">Alaska</option>
+            <option value="HI">Hawaii</option>
+        </optgroup>
+        <optgroup label="Pacific Time Zone">
+            <option value="CA">California</option>
+            <option value="NV">Nevada</option>
+            <option value="OR">Oregon</option>
+            <option value="WA">Washington</option>
+        </optgroup>
+      </select>
+     </div>
+
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div *ngFor="let data of products.Categories"  class="panel panel-default">
+            <div class="card">
+            <div class="card-header panel-heading" role="tab" [id]="'heading'+data._id">
+                <h4 class="panel-title">
+                <a role="button" class="btn btn-link collapsed p-0 font-16"  data-toggle="collapse" data-parent="#accordion" [href]="'#collapse'+data._id" aria-expanded="true" [attr.aria-controls]="'collapse'+data.id">
+                    <i class="fas fa-caret-right rotate-icon"></i> &nbsp;&nbsp;{{data.Category_name}} 0
+                </a>
+                </h4>
+            </div>
+            <div [id]="'collapse'+data._id" class="panel-collapse collapse" role="tabpanel" [attr.aria-labelledby]="'heading'+data._id">
+                <div class="card-body panel-body">
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div *ngFor="let categoryData of data.Items"  class="panel panel-default">
+                        <div class="card">
+                        <div class="card-header panel-heading" role="tab" [id]="'heading'+categoryData._id">
+                        <h4 class="panel-title font-14">
+                            <a role="button" class="btn btn-link collapsed p-0 font-14"  data-toggle="collapse" data-parent="#accordion" [href]="'#collapse'+categoryData._id" aria-expanded="true" [attr.aria-controls]="'collapse'+categoryData._id">
+                            <span>
+                              <i class="fas fa-caret-right rotate-icon"></i> &nbsp;&nbsp;
+                                {{categoryData.Name}} 
+                            </span>
+                            </a>
+                        </h4>
+                        </div>
+                        <div [id]="'collapse'+categoryData._id" class="panel-collapse collapse" role="tabpanel" [attr.aria-labelledby]="'heading'+categoryData._id">
+                        <div class="card-body panel-body p-2 font-12">
+                          <div *ngFor="let categoryName of categoryData.Customisation">
+                            <div *ngFor="let categoryname of categoryName.Options">
+                              <div class="d-flex justify-content-between">
+                                <div>
+                                  <i class="fas fa-circle p-1 border-icon mr-3" ></i> 
+                                  {{categoryname.Name}}
+                                 </div>
+                                 <div class="justify-content-end pr-3">
+                                  ₹ {{categoryname.Price}}
+                                  <i class="fas fa-star font-16 ml-3" style="color: #f0cb4e;"></i>
+                                 </div>
+                                 <div class="pr-2 justify-content-end custom-switches" *ngIf="id==categoryname._id">
+                                    <!-- <ui-switch [(ngModel)]="enable" size="small"></ui-switch> -->
+                                    <ui-switch [(ngModel)]="enable" size="small"></ui-switch>
+                                    <!-- {{enable}} -->
+                                 </div>
+                              </div>
+                             
+                              <hr class="mt-3 mb-3">
+                            </div>
+                            </div>
+
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-lg-6 col-md-6 pl-3 pr-3 pt-3 pb-2 mt-3" style="background-color: #f6f8f9;">
+      <div *ngIf="enable" class="mt-1" style="color: grey;">
+        <div class="row m-0">
+          <div class="col-lg-12 col-md-12 pl-0">
+            <h6 class="text-uppercase font-14">Pricing<sup style="color:red;">*</sup><i class="fal fa-info-circle ml-2 font-14" ></i></h6>
+            <div class="row border rounded ml-0 pt-2 pb-2" style="background-color: #fff;">
+              <div class="col-lg-6 col-md-6">
+                <span class="text-muted font-10">Base Price</span>
+                <div class="input-group d-flex justify-content-between mt-1 mb-3">
+                  <div class="input-group-prepend">
+                      <span class="input-group-text font-12 p-1" id="basic-addon1">₹</span>
+                  </div>
+                  <input type="text" class="form-control font-12 p-1 text-center" placeholder="Price" value= "189" aria-label="Price" aria-describedby="basic-addon1">
+              </div>
+              </div>
+              <div class="col-lg-6 col-md-6 pl-0">
+                <span class="text-muted font-10">Taxes & Charges</span>
+                <div class="input-group mt-1 mb-3">
+                  <div class="input-group-prepend" style="color: grey;">
+                      <select class="custom-select font-12" id="inputGroupSelect01">
+                        <option selected>GST 5.0%</option>
+                        <option value="1">One</option>
+                      </select>
+                  </div>
+                  <select class="custom-select font-12" id="inputGroupSelect01">
+                    <option selected>Charges(1)</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-3 mb-1">
+            <h6 class="text-uppercase font-14">customization<i class="fal fa-info-circle ml-2 font-14" ></i></h6>
+            <form class="m-t-20">
+              <div class="form-group">
+                  <textarea class="form-control align-middle pt-3 pb-3" rows="1" placeholder="&#xf067; Add Variants and Addons" style="width: 100% !important;font-family:FontAwesome !important;" spellcheck="false"></textarea>
+              </div>
+          </form>
+          </div>
+
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-3 mb-1">
+            <div class="p-2">
+              <h6 class="text-uppercase font-14">additional information</h6>
+              <div class="border rounded" style="background-color: #fff;">
+                <div class="row col-lg-3 col-md-3 ml-1 pt-2 pb-2">
+                  <span class="text-muted font-10">Calorie Count</span>
+                  <div class="input-group d-flex justify-content-between mt-1 mb-3">
+                    <input type="text" class="form-control font-12 p-1 text-center" style="width:60% !important;" placeholder="" value="" aria-label="Price" aria-describedby="basic-addon1">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text font-10 p-1" id="basic-addon1">kCal</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-12 col-md-12 pl-0 pr-0 mt-3 mb-1">
+            <h6 class="text-uppercase font-14">item description<i class="fal fa-info-circle ml-2 font-14" ></i></h6>
+            <form class="m-t-20">
+              <div class="form-group">
+                  <textarea class="form-control align-middle pt-3 pb-3" rows="5" placeholder="{{'Address Line1\nAddress Line2\nCity State, Zip\nCountry'}}" style="width: 100% !important;" spellcheck="false"></textarea>
+              </div>
+          </form>
+          </div>
+          
+
+
+        </div>
+        
+      </div>
+    </div>
+</div> 

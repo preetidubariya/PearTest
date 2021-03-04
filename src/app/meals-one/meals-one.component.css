@@ -1,0 +1,50 @@
+.one-edge-shadow {
+    box-shadow: 5px 0 5px -5px grey;
+}
+
+.accordion .card{
+    border:transparent !important;
+    border-bottom:1px;
+    border-radius:0px;
+}
+
+.panel-title a:not(.collapsed) .rotate-icon {
+    -webkit-transform: rotate(90deg) !important; 
+    transform: rotate(90deg) !important;
+}
+
+a .btn .btn-link.fa-angle-down {
+    float: left;
+}
+
+.btn-link:hover {
+    color:black !important; 
+    text-decoration:none !important;
+}
+
+.btn:focus, .btn.focus {
+    box-shadow: 0 0 0 0 rgb(0 123 255 / 25%) !important;
+}
+
+a{
+    text-decoration: none !important;
+    color:black;
+}
+
+.card-header:first-child {
+    border-radius: 0 !important;
+}
+
+.card{
+    border:none !important;
+}
+
+.card-header{
+    background-color: #fff !important;
+    padding: 0.5rem .5rem !important;
+}
+
+.border-icon{
+    border: 3px solid green;
+    font-size:8px;
+}

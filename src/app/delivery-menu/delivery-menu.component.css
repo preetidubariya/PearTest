@@ -1,0 +1,101 @@
+.one-edge-shadow {
+    box-shadow: 5px 0 5px -5px grey;
+}
+
+.accordion .card{
+    border:transparent !important;
+    border-bottom:1px;
+    border-radius:0px;
+}
+
+.panel-title a:not(.collapsed) .rotate-icon {
+    -webkit-transform: rotate(90deg) !important; 
+    transform: rotate(90deg) !important;
+}
+
+a .btn .btn-link.fa-angle-down {
+    float: left;
+}
+
+.btn-link:hover {
+    color:black !important; 
+    text-decoration:none !important;
+}
+
+.btn:focus, .btn.focus {
+    box-shadow: 0 0 0 0 rgb(0 123 255 / 25%) !important;
+}
+
+a{
+    text-decoration: none !important;
+    color:black;
+}
+
+.card-header:first-child {
+    border-radius: 0 !important;
+}
+
+.card{
+    border:none !important;
+}
+
+.card-header{
+    background-color: #fff !important;
+    padding: 0.5rem .5rem !important;
+}
+
+.border-icon{
+    border: 3px solid green;
+    font-size:8px;
+    color:green;
+}
+
+.select2-container--classic .select2-selection--single, .select2-container--default .select2-selection--multiple, .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-selection__arrow, .select2-container--default .select2-selection--single .select2-selection__rendered {
+    border-color: rgba(0,0,0,.1);
+    color: #6a7a8c;
+    height: 40px;
+    line-height: 40px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6a7a8c;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #e9ecef;
+    appearance: none;
+    border-radius: 2px;
+    box-shadow: unset;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.select2{
+    width:13vw !important;
+}
+
+.switch .checked {
+    background: #375e97 !important;
+    }
+    
+
+.form-control{
+    width: auto !important;
+}
+
+.input-group-text{
+    background-color: #fff !important;
+}
+
+.custom-select{
+    border-radius: 2px !important;
+    border: 1px solid #e9ecef !important;
+}
+
+.input-group-text{
+    border:1px solid #e9ecef !important;
+}

@@ -1,0 +1,2235 @@
+{
+	"_id": "6038aa8b7c48d9fbb2d169a6",
+	"ID": 9999,
+	"Categories": [
+		{
+			"_id": "6038aa7fc3419212f87499d3",
+			"Category_bundle_link": "https://firebasestorage.googleapis.com/v0/b/arbites-66bab.appspot.com/o/CHHOLAY%2FDhamaka%20eats!%2Fchholay_dhamaka%20eats!?alt=media&token=ab5f8a28-6d65-4d66-963e-498cc9e99290",
+			"Category_name": "BestSellers",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"categoryDiscountPercentage": 0,
+			"hasCategoryDiscount": false,
+			"Items": [{
+				"_id": "6038aa7fc3419212f87499d4",
+				"Name": "Mexican Sizzler",
+				"Price": 190.5,
+				"Customisation": [{
+					"_id": "6038aa7fc3419212f87499d5",
+					"Name": "Extras",
+					"Live": false,
+					"max": 4,
+					"min": 2,
+					"Options": [{
+							"_id": "6038aa7fc3419212f87499d6",
+							"Name": "Avocado",
+							"Price": 100,
+							"Live": true,
+							"option_type": "1"
+						},
+						{
+							"_id": "6038aa7fc3419212f87499d7",
+							"Name": "Organic Cheese",
+							"Price": 80,
+							"Live": true,
+							"option_type": "1"
+						}
+					]
+				}]
+				},
+				{
+					"Customisation": [{
+							"Options": [{
+									"_id": "6038aa7fc3419212f87499da",
+									"Name": "Avocado",
+									"Price": 100,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499db",
+									"Name": "Organic Cheese",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499dc",
+									"Name": "Organic Cheese 1",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								}
+							],
+							"_id": "6038aa7fc3419212f87499d9",
+							"Name": "Extras",
+							"Live": true,
+							"max": 0,
+							"min": 1
+						},
+						{
+							"Options": [{
+									"_id": "6038aa7fc3419212f87499de",
+									"Name": "Avocado1",
+									"Price": 100,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499df",
+									"Name": "Organic Cheese12",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499e0",
+									"Name": "Organic Cheese 13",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499e1",
+									"Name": "Organic Cheese 14",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								}
+							],
+							"_id": "6038aa7fc3419212f87499dd",
+							"Name": "Extras1",
+							"Live": true,
+							"max": 3,
+							"min": 2
+						},
+						{
+							"Options": [{
+									"_id": "6038aa7fc3419212f87499e3",
+									"Name": "Avocado2",
+									"Price": 100,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499e4",
+									"Name": "Organic Cheese22",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499e5",
+									"Name": "Organic Cheese 23",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499e6",
+									"Name": "Organic Cheese 24",
+									"Price": 80,
+									"Live": true,
+									"option_type": "1"
+								}
+							],
+							"_id": "6038aa7fc3419212f87499e2",
+							"Name": "Extras2",
+							"Live": true,
+							"max": 0,
+							"min": 2
+						},
+						{
+							"Options": [{
+									"_id": "6038aa7fc3419212f87499e8",
+									"Name": "Toast",
+									"Price": 20,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f87499e9",
+									"Name": "Soup",
+									"Price": 20,
+									"Live": true,
+									"option_type": "1"
+								}
+							],
+							"_id": "6038aa7fc3419212f87499e7",
+							"Name": "Add-ons",
+							"Live": true,
+							"max": 0,
+							"min": 0
+						}
+					],
+					"_id": "6038aa7fc3419212f87499d8",
+					"AR": true,
+					"Description": "Sunday must have",
+					"Jain": true,
+					"Name": "Satay Paneer",
+					"Price": 190.5,
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Satay Paneer/1610718721538IMG_2240-min-min.jpg",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 200,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Satay Paneer/1610711211973sataypaneerglb.glb",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f87499ec",
+								"Name": "Avocado",
+								"Price": 100,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f87499ed",
+								"Name": "Organic Cheese",
+								"Price": 80,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f87499eb",
+						"Name": "Extras",
+						"Live": true,
+						"max": 4,
+						"min": 2
+					}],
+					"_id": "6038aa7fc3419212f87499ea",
+					"AR": true,
+					"Description": "Spongy and super fresh",
+					"Jain": true,
+					"Name": "Watermelon Feta Salad",
+					"Price": 190,
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Watermelon Feta Salad/1610718934267IMG_1271-min-min.jpg",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Watermelon Feta Salad/1610711806679Watermelonglb.glb",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499ee",
+					"AR": true,
+					"Description": "Goes well with Chholay",
+					"Jain": false,
+					"Name": "Oreo waffle",
+					"Price": 10,
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Oreo waffle/1610717614903IMG_0665-min.jpg",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Oreo_waffle/1610715115934Oreo_waffle.glb",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499ef",
+					"AR": true,
+					"Description": "Perfect accompaniment",
+					"Jain": true,
+					"Name": "Momo",
+					"Price": 60,
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Momo/1610717018179IMG_0297-minaa-min.jpg",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Momo/1610710034394veg_cheese_momos.glb",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f0",
+					"Name": "pizzas",
+					"Price": 0,
+					"AcPrice": 0,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": true,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Istaa Cafe/pizzas/1611572383632modelglb.glb",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f1",
+					"Name": "test",
+					"Price": 0,
+					"AcPrice": 0,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": true,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Istaa Cafe/test/1611575235070ModelGLB.glb",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f87499f2",
+			"Category_bundle_link": "https://firebasestorage.googleapis.com/v0/b/arbites-66bab.appspot.com/o/CHHOLAY%2FJabardast_Jodi%2Fjabardast_jodi?alt=media&token=5bbf8dfa-c30c-41ec-80c0-4fa61232d5b4",
+			"Category_name": "JABARDAST JODI",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"categoryDiscountPercentage": 0,
+			"hasCategoryDiscount": false,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f3",
+					"AR": true,
+					"Description": "",
+					"Jain": true,
+					"Name": "CHHOLAY - BHATURE",
+					"Price": 230,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Istaa Cafe/CHHOLAY - BHATURE/1612001699668modelglb.glb",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f4",
+					"AR": true,
+					"Description": "",
+					"Jain": true,
+					"Name": "CHHOLAY - KULCHE",
+					"Price": 230,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f5",
+					"AR": true,
+					"Description": "",
+					"Jain": true,
+					"Name": "CHHOLAY - CHAWAL",
+					"Price": 230,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f6",
+					"AR": true,
+					"Description": "",
+					"Jain": true,
+					"Name": "RAJMA - KULCHE",
+					"Price": 230,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499f7",
+					"AR": true,
+					"Description": "",
+					"Jain": true,
+					"Name": "RAJMA - CHAWAL",
+					"Price": 230,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f87499fa",
+								"Name": "Avocado",
+								"Price": 100,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f87499fb",
+								"Name": "Organic Cheese",
+								"Price": 80,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f87499f9",
+						"Name": "Extras",
+						"Live": false,
+						"max": 4,
+						"min": 2
+					}],
+					"_id": "6038aa7fc3419212f87499f8",
+					"AR": true,
+					"Description": "The best in town",
+					"Jain": true,
+					"Name": "Mexican Sizzler",
+					"Price": 190.5,
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Mexican Sizzler/1610719011318IMG_0480-min.jpg",
+					"Live": true,
+					"item_type": "2",
+					"AcPrice": 380,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Chholay-Test Rooftop Dining and Bar/Mexican Sizzler/1610717707533Mexican_sizzler.glb",
+					"model_ios": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Istaa Cafe/Mexican Sizzler/1612350326632model_3.usdz",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f87499fc",
+			"Category_bundle_link": "https://firebasestorage.googleapis.com/v0/b/arbites-66bab.appspot.com/o/Whattawaffle%2Fwaw_best?alt=media&token=b365d4bb-9109-41ee-aaf2-42b69be14165",
+			"Category_name": "BUMPER ORDER",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"categoryDiscountPercentage": 0,
+			"hasCategoryDiscount": false,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499fd",
+					"AR": true,
+					"Description": "",
+					"Jain": true,
+					"Name": "CHHOLAY",
+					"Price": 600,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "https://restaurantitem3dmodel.s3.ap-south-1.amazonaws.com/Istaa Cafe/CHHOLAY/1613112515057fbx.fbx",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499fe",
+					"AR": false,
+					"Description": "",
+					"Jain": true,
+					"Name": "RAJMA",
+					"Price": 600,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "3",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f87499ff",
+					"AR": false,
+					"Description": "",
+					"Jain": true,
+					"Name": "Rice",
+					"Price": 600,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a00",
+					"AR": false,
+					"Description": "",
+					"Jain": true,
+					"Name": "BHATURA",
+					"Price": 290,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "3",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a01",
+					"AR": false,
+					"Description": "",
+					"Jain": true,
+					"Name": "KULCHA",
+					"Price": 290,
+					"item_image": "url",
+					"Live": true,
+					"item_type": "1",
+					"AcPrice": 300,
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Gluten_free": false,
+					"Seasonal": false,
+					"Vegan": false,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a02",
+			"Category_bundle_link": "url",
+			"Category_name": "Alcohol",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0
+			"Items": [{
+				"Customisation": [
+
+				],
+				"_id": "6038aa7fc3419212f8749a03",
+				"Name": "Royal Stag",
+				"Price": 1000,
+				"AcPrice": 0,
+				"Jain": false,
+				"Description": "",
+				"item_image": "url",
+				"AR": false,
+				"Live": true,
+				"item_type": "1",
+				"serving_time": 0,
+				"model_android": "url",
+				"model_ios": "url",
+				"Vegan": false,
+				"Gluten_free": false,
+				"Best_seller": false,
+				"Chefs_special": false,
+				"Seasonal": false,
+				"taxable": true
+			}]
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a04",
+			"Category_bundle_link": "url",
+			"Category_name": "All Day Breakfast",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a05",
+					"Name": "Bread With Butter",
+					"Price": 39,
+					"Jain": false,
+					"Description": "",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/Bread With Butter/1606554683000WhatsApp Image 2020-11-28 at 2.14.36 PM.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a06",
+					"Name": "Bread Butter Cheese",
+					"Price": 49,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a07",
+					"Name": "Bread Jam",
+					"Price": 39,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a08",
+					"Name": "Bread Jam Cheese",
+					"Price": 49,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a09",
+			"Category_bundle_link": "url",
+			"Category_name": "Fries",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a0a",
+					"Name": "Classic Fries",
+					"Price": 79,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a0b",
+					"Name": "Mayo Fries",
+					"Price": 89,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a0c",
+					"Name": "Peri Peri",
+					"Price": 99,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a0d",
+					"Name": "Cheese Fries",
+					"Price": 109,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a0e",
+					"Name": "Chipotle Fries",
+					"Price": 109,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a0f",
+					"Name": "Cream and Onion Fries",
+					"Price": 109,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a10",
+					"Name": "Cheese Fries With Mayo",
+					"Price": 129,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a11",
+					"Name": "Cheese Fries with Chipotle",
+					"Price": 129,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a12",
+					"Name": "Fully Loaded Fries",
+					"Price": 159,
+					"Jain": false,
+					"Description": "Mayo, Chipotle and Cheese",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a13",
+					"Name": "Cheese Fries With BBQ Sauce",
+					"Price": 179,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a14",
+			"Category_bundle_link": "url",
+			"Category_name": "Macho Nacho",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a15",
+					"Name": "Cheese and Veggies Nachos",
+					"Price": 159,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a16",
+					"Name": "Food Swings Special",
+					"Price": 199,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": true,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+			
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a17",
+			"Category_bundle_link": "url",
+			"Category_name": "Fusion Puri Shots",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a18",
+					"Name": "Pizza puri Shots",
+					"Price": 79,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a19",
+					"Name": "Pizza puri Shots With Liquid Cheese",
+					"Price": 99,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a1a",
+			"Category_bundle_link": "url",
+			"Category_name": "Play On The Bread",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a1b",
+					"Name": "Cheese Garlic Bread",
+					"Price": 99,
+					"Jain": false,
+					"Description": "",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/Cheese Garlic Bread/1606555180031WhatsApp Image 2020-11-28 at 2.14.38 PM.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a1c",
+					"Name": "Golden Crown Garlic Bread",
+					"Price": 109,
+					"Jain": false,
+					"Description": "Golden Brown And Crunchy Bread Topped With Corn And Garlic",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a1d",
+					"Name": "Jalapeno Garlic",
+					"Price": 119,
+					"Jain": false,
+					"Description": "Crunchy Bread Topped With Jalapeno And Garlic",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [
+
+					],
+					"_id": "6038aa7fc3419212f8749a1e",
+					"Name": "Paneer Garlic",
+					"Price": 129,
+					"Jain": false,
+					"Description": "Crunchy Bread Topped With Paneer And Garlic",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+			
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a1f",
+			"Category_bundle_link": "url",
+			"Category_name": "Sandwiches",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a22",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a23",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a21",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a20",
+					"Name": "Veg Sandwich",
+					"Price": 59,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+							"Options": [{
+								"_id": "6038aa7fc3419212f8749a26",
+								"Name": "Cheese",
+								"Price": 20,
+								"Live": true,
+								"option_type": "1"
+							}],
+							"_id": "6038aa7fc3419212f8749a25",
+							"Name": "Add On",
+							"Live": true,
+							"max": 0,
+							"min": 0
+						},
+						{
+							"Options": [{
+									"_id": "6038aa7fc3419212f8749a28",
+									"Name": "Regular",
+									"Price": 0,
+									"Live": true,
+									"option_type": "1"
+								},
+								{
+									"_id": "6038aa7fc3419212f8749a29",
+									"Name": "Jain",
+									"Price": 0,
+									"Live": true,
+									"option_type": "1"
+								}
+							],
+							"_id": "6038aa7fc3419212f8749a27",
+							"Name": "Preparation Type",
+							"Live": true,
+							"max": 0,
+							"min": 1
+						}
+					],
+					"_id": "6038aa7fc3419212f8749a24",
+					"Name": "Veg Cheese Sandwich",
+					"Price": 89,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a2c",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a2d",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a2b",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a2a",
+					"Name": "Veg Cheese Grill Sandwich",
+					"Price": 129,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a30",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a31",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a2f",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a2e",
+					"Name": "Couple Special Sandwich",
+					"Price": 169,
+					"Jain": false,
+					"Description": "(Mash-Up Of Grilled And Classic Layer Of Mix Veggie Sandwiches, Topped With Grated Cheese And Served With Chutney",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a34",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a35",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a33",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a32",
+					"Name": "Cheese Softy Sandwich",
+					"Price": 169,
+					"Jain": false,
+					"Description": "",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/Cheese Softy Sandwich/1606555395449sd.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a38",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a39",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a37",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a36",
+					"Name": "Indian Flag Sandwich",
+					"Price": 169,
+					"Jain": false,
+					"Description": "Mix Veggie Layered With Red Chutney, Mayo And Green Chutney To Resemble Indian Flag, Topped With Grated Cheese And Served",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/Indian Flag Sandwich/1606555488711vege.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a3c",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a3d",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a3b",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a3a",
+					"Name": "Veg Mayo Cheese Grill Sandwich",
+					"Price": 169,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a40",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a41",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a3f",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a3e",
+					"Name": "Cheese Chilly Grill Sandwich",
+					"Price": 169,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a44",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a45",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a43",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a42",
+					"Name": "Crispy Trispy Sandwich",
+					"Price": 179,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a48",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a49",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a47",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a46",
+					"Name": "Co-Bo Sandwich",
+					"Price": 179,
+					"Jain": false,
+					"Description": "Gilled Corn And Broccoli, Topped With Grated Cheese And Served With Chutney",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a4c",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a4d",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a4b",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a4a",
+					"Name": "Paneer Chilly Grill Sandwich",
+					"Price": 189,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a50",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a51",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a4f",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a4e",
+					"Name": "Paneer Softy Sandwich",
+					"Price": 199,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a54",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a55",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a53",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a52",
+					"Name": "Shahi Corn Paneer Sandwich",
+					"Price": 199,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a58",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a59",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a57",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a56",
+					"Name": "Tangy Tadka Sandwich",
+					"Price": 209,
+					"Jain": false,
+					"Description": "Mix Veggie With Twist Of Tadka, Grilled With Butter, Topped With Grated Cheese And Served With Chutney",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a5c",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a5d",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a5b",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a5a",
+					"Name": "Pasta Grill Sandwich",
+					"Price": 209,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a60",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a61",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a5f",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a5e",
+					"Name": "Paneer Tadka Sandwich",
+					"Price": 249,
+					"Jain": false,
+					"Description": "",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a64",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a65",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a63",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a62",
+					"Name": "Double Decker Sandwich",
+					"Price": 289,
+					"Jain": false,
+					"Description": "Double Layer Of Sandwich Loaded With Mix Vegetables, Grilled With Butter, Topped With Grated Cheese",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/Double Decker Sandwich/1606555543746WhatsApp Image 2020-11-28 at 2.14.39 PM.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a68",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a69",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a67",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a66",
+					"Name": "Mount Everest Sandwich",
+					"Price": 299,
+					"Jain": false,
+					"Description": "Mix Veggies With Extra Layers, Grilled With Butter, To Resemble Mountain, Served With Chutney",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/Mount Everest Sandwich/1606555616242svfas.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+		},
+		{
+			"_id": "6038aa7fc3419212f8749a6a",
+			"Category_bundle_link": "url",
+			"Category_name": "Roller Coaster Rolls",
+			"Version": 0.1,
+			"category_image": "url",
+			"Live": true,
+			"hasCategoryDiscount": false,
+			"categoryDiscountPercentage": 0,
+			"Items": [{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a6d",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a6e",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a6c",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a6b",
+					"Name": "Wildfire Coaster Rolls",
+					"Price": 179,
+					"Jain": false,
+					"Description": "Chilli Roasted",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a71",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a72",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a70",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a6f",
+					"Name": "The Smiler Rolls",
+					"Price": 189,
+					"Jain": false,
+					"Description": "Veg Cheese",
+					"item_image": "https://restaurantitemimage.s3.ap-south-1.amazonaws.com/Food Swings/The Smiler Rolls/1606554882984WhatsApp Image 2020-11-28 at 2.14.36 PM.jpeg",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a75",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a76",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a74",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a73",
+					"Name": "Light Heavy Coaster Rolls",
+					"Price": 199,
+					"Jain": false,
+					"Description": "Paneer",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				},
+				{
+					"Customisation": [{
+						"Options": [{
+								"_id": "6038aa7fc3419212f8749a79",
+								"Name": "Regular",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							},
+							{
+								"_id": "6038aa7fc3419212f8749a7a",
+								"Name": "Jain",
+								"Price": 0,
+								"Live": true,
+								"option_type": "1"
+							}
+						],
+						"_id": "6038aa7fc3419212f8749a78",
+						"Name": "Preparation Type",
+						"Live": true,
+						"max": 0,
+						"min": 1
+					}],
+					"_id": "6038aa7fc3419212f8749a77",
+					"Name": "Crazy Coaster Rolls",
+					"Price": 209,
+					"Jain": false,
+					"Description": "Corn & Paneer",
+					"item_image": "url",
+					"AR": false,
+					"Live": true,
+					"item_type": "1",
+					"serving_time": 0,
+					"model_android": "url",
+					"model_ios": "url",
+					"Vegan": false,
+					"Gluten_free": false,
+					"Best_seller": false,
+					"Chefs_special": false,
+					"Seasonal": false,
+					"AcPrice": 0,
+					"taxable": true
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,115 @@
+[{
+    "id": "1",
+    "category": "Dinner",
+    "categoryName": [{
+            "id": "11",
+            "food_type": "veg",
+            "name": "Roti",
+            "price": "250"
+        },
+        {
+            "id": "12",
+            "food_type": "veg",
+            "name": "Sabzi",
+            "price": "200"
+        },
+        {
+            "id": "13",
+            "food_type": "veg",
+            "name": "Dal",
+            "price": "150"
+        }
+    ]
+},
+{
+    "id": "2",
+    "category": "Late Night",
+    "categoryName": [{
+            "id": "21",
+            "food_type": "veg",
+            "name": "Roti",
+            "price": "250"
+        },
+        {
+            "id": "22",
+            "food_type": "veg",
+            "name": "Sabzi",
+            "price": "200"
+        },
+        {
+            "id": "23",
+            "food_type": "veg",
+            "name": "Dal",
+            "price": "150"
+        }
+    ]
+}, {
+    "id": "3",
+    "category": "Breakfast",
+    "categoryName": [{
+            "id": "31",
+            "food_type": "veg",
+            "name": "Roti",
+            "price": "250"
+        },
+        {
+            "id": "32",
+            "food_type": "veg",
+            "name": "Sabzi",
+            "price": "200"
+        },
+        {
+            "id": "33",
+            "food_type": "veg",
+            "name": "Dal",
+            "price": "150"
+        }
+    ]
+},
+{
+    "id": "4",
+    "category": "Launch",
+    "categoryName": [{
+            "id": "41",
+            "food_type": "veg",
+            "name": "Roti",
+            "price": "250"
+        },
+        {
+            "id": "42",
+            "food_type": "veg",
+            "name": "Sabzi",
+            "price": "200"
+        },
+        {
+            "id": "43",
+            "food_type": "veg",
+            "name": "Dal",
+            "price": "150"
+        }
+    ]
+},
+{
+    "id": "5",
+    "category": "Snacks",
+    "categoryName": [{
+            "id": "51",
+            "food_type": "veg",
+            "name": "Roti",
+            "price": "250"
+        },
+        {
+            "id": "52",
+            "food_type": "veg",
+            "name": "Sabzi",
+            "price": "200"
+        },
+        {
+            "id": "53",
+            "food_type": "veg",
+            "name": "Dal",
+            "price": "150"
+        }
+    ]
+}
+]
